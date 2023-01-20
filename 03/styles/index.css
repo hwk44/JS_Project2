@@ -81,7 +81,7 @@ main {
   display: inline-block;
   border : 2px solid #f0f0f0;
   margin: 2px;
-  opacity: 10%;
+  opacity: 30%;
 }
 
 #imgIcon > img:hover, #imgIcon > img:active {
